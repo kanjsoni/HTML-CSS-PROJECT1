@@ -70,7 +70,7 @@
 }
  
 .hero-container img[alt="person-hero-image"]{
-    height: 350px;
+    height: 330px;
     
 }
 
@@ -82,7 +82,7 @@
 }
 
 .square img{
-    height: 280px;
+    height: 250px;
 }
 
 .hero-container-right{
@@ -117,7 +117,7 @@
     font-size: 1.2rem;
     font-weight: 600;
     color: #484848;
-    border-radius: 0.5rem;
+    border-radius: 0.2rem;
     border: 2.5px solid #3d3d3d;
 }
 
@@ -153,7 +153,7 @@
 height: 40px;
 }
 .stars{
-    bottom: 3rem;
+    bottom: 2rem;
     left: 30rem;
 }
  .stars img{
