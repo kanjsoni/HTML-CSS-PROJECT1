@@ -97,6 +97,7 @@
     font-family: 3.5rem;
     font-weight: 900;
     margin-top:8rem;
+    font-size: 1rem;
 }
 
 .hero-description{
@@ -104,7 +105,7 @@
     color: #979797;
     margin-top: 2rem;
     margin-bottom: 3rem;
-    font-size: 0.9rem;
+    font-size: 0.7rem;
     font-weight: 600;
     font-family: 'poppins', sans-serif;
     width: 85%;
@@ -150,14 +151,14 @@
     left: 60rem;
 }
  .star img{
-    bottom: 1.5rem;
-height: 40px;
+    height: 40px;
 }
 .stars{
     left: 30rem;
+    bottom: 2rem;
 }
  .stars img{
-height: 40px;
+   height: 40px;
 }
 
 .globe{
