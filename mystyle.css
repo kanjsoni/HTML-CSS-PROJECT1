@@ -16,6 +16,7 @@
     align-items: center;
     font-weight: 900;
     gap: 40px;
+    margin-left: 10px;
 }
 
 .navbar-container img{
@@ -147,15 +148,15 @@
     position: absolute;
 }
 .star{
-    top:4.5rem;
-    left: 60rem;
+    top:4rem;
+    left: 55rem;
 }
  .star img{
     height: 40px;
 }
 .stars{
     left: 30rem;
-    bottom: 2rem;
+    bottom: 1.5rem;
 }
  .stars img{
    height: 40px;
